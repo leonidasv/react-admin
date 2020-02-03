@@ -66,7 +66,7 @@ const styles = theme =>
                 padding: 0,
             },
         },
-    });
+    }, {name: 'RaLayout'});
 
 const sanitizeRestProps = ({
     staticContext,
